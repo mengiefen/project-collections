@@ -82,9 +82,9 @@
 <br/> <br/>
 
 - ### Utility Payment Rails App
-![screenshot](screenshots/utility-app-edit-profile.png)
+![screenshot](screenshots/utility-app-1.png)
 
-<h4 align="center"><a href= 'https://sheltered-reef-51558.herokuapp.com/'>Utility App Center Live Demo </a> </h4>
+<h4 align="center"><a href= 'https://sheltered-reef-51558.herokuapp.com/home'>Utility App Center Live Demo </a> </h4>
 <h4 align="center"><a href= 'https://github.com/mengiefen/utility-app'> Link to source code</a> </h4>
 <br/> <br/>
 
